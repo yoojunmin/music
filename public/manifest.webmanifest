@@ -1,0 +1,11 @@
+{
+  "name": "조용한 방 — 음악 플레이어",
+  "short_name": "조용한 방",
+  "description": "이어폰과 헤드폰으로 즐기는 나만의 음악 공간",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#11120f",
+  "theme_color": "#11120f",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}

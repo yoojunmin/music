@@ -1,0 +1,5 @@
+[
+  { "id": "track-01", "tiki-tiki": "tiki tiki", "artist": "몰라 이씨", "src": "/music/QMIIR ~ TIKI TIKI [slowed].mp4", "duration": "2:01" },
+  { "id": "track-02", "title": "두 번째 트랙", "artist": "아티스트 이름", "src": "/music/track-02.mp3", "duration": "—" },
+  { "id": "track-03", "title": "세 번째 트랙", "artist": "아티스트 이름", "src": "/music/track-03.mp3", "duration": "—" }
+]
